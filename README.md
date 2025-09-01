@@ -1,1 +1,1 @@
-![image alt]([https://github.com/niteshgautam12/cohere-chat-bot/blob/b131555d06f93c960e9dd71137df94f7cb9cf838/chatbot/ss.png](https://github.com/niteshgautam12/ios-development-project-1-/blob/4f640ef34918800bbfdef412b741f945a32da2f8/screenchot2.png))
+![image alt](screenchot2.png)
